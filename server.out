@@ -1,0 +1,51 @@
+        -Segment Fields-
+Source Port:            22000
+Destination Port:       33000
+Sequence Number:        85
+Acknowledgement Number: 38
+Offset:                 6
+URG Flag:               0
+ACK Flag:               1
+PSH Flag:               0
+RST Flag:               0
+SYN Flag:               1
+FIN Flag:               0
+Receive Window:         0
+Checksum:               38261
+Urgent Ptr:             0
+Options:                0
+
+        -Segment Fields-
+Source Port:            22000
+Destination Port:       33000
+Sequence Number:        63
+Acknowledgement Number: 142
+Offset:                 6
+URG Flag:               0
+ACK Flag:               1
+PSH Flag:               0
+RST Flag:               0
+SYN Flag:               0
+FIN Flag:               0
+Receive Window:         0
+Checksum:               35550
+Urgent Ptr:             0
+Options:                0
+
+        -Segment Fields-
+Source Port:            22000
+Destination Port:       33000
+Sequence Number:        64
+Acknowledgement Number: 142
+Offset:                 6
+URG Flag:               0
+ACK Flag:               0
+PSH Flag:               0
+RST Flag:               0
+SYN Flag:               0
+FIN Flag:               1
+Receive Window:         0
+Checksum:               7540
+Urgent Ptr:             0
+Options:                0
+

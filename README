@@ -1,0 +1,15 @@
+Description:
+
+This program simulates the 3-way handshake and closing connection procedure that takes place between
+client and server when transmitting TCP segments. The contents of the TCP segments are altered in order
+to simulate the interaction. The outputs of the interaction will be written into server.out and client.out.
+
+How to compile:
+
+gcc server.c -o server
+gcc client.c -o client
+
+How to run:
+
+./server
+./client
